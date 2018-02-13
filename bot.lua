@@ -19,7 +19,7 @@ usm_not_found = 'Username Not Found.'
 you_not_mod = 'For Moderators!'
 you_not_owner = 'For Owner!'
 have_acces = 'User is Owner/Moderator/Sudo\nFirst,Demote user!'
-sudo = 282958812 -- SUDO Orginal
+sudo = 332185120 -- SUDO Orginal
 
 
 function sleep(time)
